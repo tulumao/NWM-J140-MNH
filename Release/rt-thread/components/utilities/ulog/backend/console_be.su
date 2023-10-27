@@ -1,0 +1,2 @@
+console_be.c:22:6:ulog_console_backend_output	16	static
+console_be.c:46:5:ulog_console_backend_init	8	static

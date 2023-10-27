@@ -1,0 +1,8 @@
+mempool.c:40:6:rt_mp_alloc_sethook	0	static
+mempool.c:51:6:rt_mp_free_sethook	0	static
+mempool.c:77:10:rt_mp_init	24	static
+mempool.c:134:10:rt_mp_detach	24	static
+mempool.c:184:9:rt_mp_create	24	static
+mempool.c:250:10:rt_mp_delete	24	static
+mempool.c:303:7:rt_mp_alloc	48	static
+mempool.c:399:6:rt_mp_free	16	static

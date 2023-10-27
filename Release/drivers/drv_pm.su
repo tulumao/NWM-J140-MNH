@@ -1,0 +1,6 @@
+drv_pm.c:238:5:drv_pm_hw_init	8	static
+drv_pm.c:224:18:pm_timer_get_tick	16	static
+drv_pm.c:209:13:pm_timer_stop	8	static
+drv_pm.c:185:13:pm_timer_start	8	static
+drv_pm.c:114:13:run	24	static
+drv_pm.c:37:13:sleep	8	static

@@ -1,0 +1,14 @@
+drv_usart.c:598:12:stm32_getc	8	static
+drv_usart.c:580:12:stm32_putc	16	static
+drv_usart.c:267:17:stm32_gpio_clk_enable	56	static
+drv_usart.c:658:13:uart_isr	8	static
+drv_usart.c:346:13:get_pin_by_name	16	static
+drv_usart.c:478:17:stm32_configure	72	static
+drv_usart.c:544:17:stm32_control	16	static
+drv_usart.c:619:18:stm32_dma_transmit	24	static
+drv_usart.c:783:6:USART1_IRQHandler	8	static
+drv_usart.c:820:6:USART2_IRQHandler	8	static
+drv_usart.c:932:6:USART4_5_IRQHandler	8	static
+drv_usart.c:1080:6:LPUART1_IRQHandler	8	static
+drv_usart.c:1362:5:rt_hw_usart_init	56	static
+drv_usart.c:1392:22:get_uart_handle_by_device	8	static

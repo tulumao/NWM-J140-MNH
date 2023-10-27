@@ -1,0 +1,13 @@
+workqueue.c:50:13:_workqueue_thread_entry	24	static
+workqueue.c:89:17:_workqueue_submit_work	16	static
+workqueue.c:235:13:_delayed_work_timeout_handler	16	static
+workqueue.c:145:17:_workqueue_cancel_delayed_work	24	static
+workqueue.c:250:22:rt_workqueue_create	32	static
+workqueue.c:276:10:rt_workqueue_destroy	8	static
+workqueue.c:286:10:rt_workqueue_dowork	16	static
+workqueue.c:294:10:rt_workqueue_submit_work	32	static
+workqueue.c:314:10:rt_workqueue_critical_work	16	static
+workqueue.c:343:10:rt_workqueue_cancel_work	16	static
+workqueue.c:358:10:rt_workqueue_cancel_work_sync	16	static
+workqueue.c:381:10:rt_workqueue_cancel_all_work	8	static
+workqueue.c:397:6:rt_delayed_work_init	0	static

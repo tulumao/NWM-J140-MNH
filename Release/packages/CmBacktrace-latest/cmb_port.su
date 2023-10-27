@@ -1,0 +1,6 @@
+cmb_port.c:185:6:rt_cm_backtrace_exception_hook	40	static
+cmb_port.c:241:6:rt_cm_backtrace_assert_hook	32	static
+cmb_port.c:258:18:exception_hook	24	static
+cmb_port.c:268:14:assert_hook	32	static
+cmb_port.c:276:5:rt_cm_backtrace_init	8	static
+cmb_port.c:295:6:cmb_test	40	static

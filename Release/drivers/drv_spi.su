@@ -1,0 +1,10 @@
+drv_spi.c:983:5:rt_hw_spi_init	24	static
+drv_spi.c:315:20:spixfer	48	static
+drv_spi.c:440:17:spi_configure	24	static
+drv_spi.c:272:9:SPI1_ReadWriteByte	0	static
+drv_spi.c:300:19:spi_wr	20	static
+drv_spi.c:555:10:rt_hw_spi_device_attach	56	static
+drv_spi.c:595:6:SPI1_IRQHandler	8	static
+drv_spi.c:613:6:SPI1_DMA_RX_IRQHandler	8	static
+drv_spi.c:631:6:SPI1_DMA_TX_IRQHandler	8	static
+drv_spi.c:644:6:DMA1_Channel2_3_IRQHandler	8	static

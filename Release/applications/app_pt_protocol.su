@@ -1,0 +1,8 @@
+app_pt_protocol.c:244:6:rt_thread_pt_protocol_entry	8	static
+app_pt_protocol.c:275:5:rt_thread_pt_protocol_task_init	24	static
+app_pt_protocol.c:52:6:declareUppProtocol	8	static
+app_pt_protocol.c:74:6:switchActiveUppProtocol	16	static
+app_pt_protocol.c:115:6:registerParseFuncToUart	16	static
+app_pt_protocol.c:182:6:unregisterParseFuncFromUart	0	static
+app_pt_protocol.c:200:6:ptUartTxOption	8	static
+app_pt_protocol.c:221:6:eth_link_check	8	static

@@ -1,0 +1,5 @@
+dataqueue.c:23:1:rt_data_queue_init	24	static
+dataqueue.c:51:10:rt_data_queue_push	48	static
+dataqueue.c:140:10:rt_data_queue_pop	56	static
+dataqueue.c:242:10:rt_data_queue_peak	24	static
+dataqueue.c:268:6:rt_data_queue_reset	24	static

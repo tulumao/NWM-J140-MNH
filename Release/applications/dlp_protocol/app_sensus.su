@@ -1,0 +1,3 @@
+app_sensus.c:54:5:sensus_protocolDeal	24	static
+app_sensus.c:84:6:sensus_protocolHandle	24	static
+app_sensus.c:125:6:sensus_SendReadDataCmd	72	static

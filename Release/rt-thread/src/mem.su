@@ -1,0 +1,9 @@
+mem.c:156:13:plug_holes	16	static
+mem.c:75:6:rt_malloc_sethook	0	static
+mem.c:86:6:rt_free_sethook	0	static
+mem.c:204:6:rt_system_heap_init	24	static
+mem.c:272:7:rt_malloc	48	static
+mem.c:525:7:rt_calloc	16	static
+mem.c:546:6:rt_free	16	static
+mem.c:421:7:rt_realloc	32	static
+mem.c:613:6:rt_memory_info	0	static

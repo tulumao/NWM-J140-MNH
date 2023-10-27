@@ -1,0 +1,15 @@
+timer.c:61:6:rt_timer_enter_sethook	0	static
+timer.c:72:6:rt_timer_exit_sethook	0	static
+timer.c:178:6:rt_timer_init	32	static
+timer.c:202:10:rt_timer_detach	8	static
+timer.c:237:12:rt_timer_create	24	static
+timer.c:265:10:rt_timer_delete	8	static
+timer.c:296:10:rt_timer_start	24	static
+timer.c:422:10:rt_timer_stop	8	static
+timer.c:459:10:rt_timer_control	16	static
+timer.c:494:6:rt_timer_check	40	static
+timer.c:560:11:rt_timer_next_timeout_tick	0	static
+timer.c:570:6:rt_soft_timer_check	48	static
+timer.c:639:13:rt_thread_timer_entry	16	static
+timer.c:679:6:rt_system_timer_init	0	static
+timer.c:694:6:rt_system_timer_thread_init	24	static

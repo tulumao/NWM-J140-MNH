@@ -1,0 +1,8 @@
+serial.c:549:17:rt_serial_init	8	static
+serial.c:568:17:rt_serial_open	24	static
+serial.c:942:17:rt_serial_control	16	static
+serial.c:817:18:rt_serial_write	24	static
+serial.c:791:18:rt_serial_read	32	static
+serial.c:714:17:rt_serial_close	16	static
+serial.c:1114:10:rt_hw_serial_register	24	static
+serial.c:1153:6:rt_hw_serial_isr	32	static

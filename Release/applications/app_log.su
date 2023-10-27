@@ -1,0 +1,2 @@
+app_log.c:70:6:mylog_output	0	static
+app_log.c:136:6:concentrator_rev_log	0	static

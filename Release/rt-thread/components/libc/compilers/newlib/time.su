@@ -1,0 +1,3 @@
+time.h:286:5:gettimeofday	24	static
+time.h:59:11:time	24	static
+time.h:56:12:clock	8	static

@@ -1,0 +1,8 @@
+cm_backtrace.c:243:13:dump_stack	24	static
+cm_backtrace.c:190:13:get_cur_thread_stack_info.isra.0	16	static
+cm_backtrace.c:143:6:cm_backtrace_init	16	static
+cm_backtrace.c:178:6:cm_backtrace_firmware_info	8	static
+cm_backtrace.c:293:8:cm_backtrace_call_stack	64	static
+cm_backtrace.c:362:13:print_call_stack	104	static
+cm_backtrace.c:386:6:cm_backtrace_assert	24	static
+cm_backtrace.c:565:6:cm_backtrace_fault	56	static

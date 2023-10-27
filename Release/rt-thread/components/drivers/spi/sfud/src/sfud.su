@@ -1,0 +1,15 @@
+sfud.c:972:17:wait_busy	56	static
+sfud.c:884:17:set_write_enabled	40	static
+sfud.c:608:17:page256_or_1_byte_write	64	static
+sfud.c:139:13:sfud_get_device	0	static
+sfud.c:152:8:sfud_get_device_num	0	static
+sfud.c:161:19:sfud_get_device_table	0	static
+sfud.c:401:10:sfud_read	56	static
+sfud.c:450:10:sfud_chip_erase	32	static
+sfud.c:507:10:sfud_erase	56	static
+sfud.c:786:10:sfud_write	56	static
+sfud.c:810:10:sfud_erase_write	24	static
+sfud.c:963:10:sfud_read_status	24	static
+sfud.c:1017:10:sfud_write_status	40	static
+sfud.c:88:10:sfud_device_init	40	static
+sfud.c:112:10:sfud_init	8	static

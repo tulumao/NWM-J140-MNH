@@ -1,0 +1,6 @@
+ec20_4g_module_drv.c:40:18:ec20_frame_head_fill	16	static
+ec20_4g_module_drv.c:498:10:ec20_rev_msg_handle	64	static
+ec20_4g_module_drv.c:58:18:create_querry_frame.constprop	16	static
+ec20_4g_module_drv.c:514:10:ec20_set_param	176	static
+ec20_4g_module_drv.c:547:10:ec20_querry_param	160	static
+ec20_4g_module_drv.c:575:10:ec20_module_init	184	static

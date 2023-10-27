@@ -1,0 +1,4 @@
+drv_rtc.c:37:14:HAL_RTCEx_BKUPWrite	0	static
+drv_rtc.c:203:17:rt_rtc_control	88	static
+drv_rtc.c:52:18:HAL_RTCEx_BKUPRead	0	static
+drv_rtc.c:266:5:rt_hw_rtc_init	72	static

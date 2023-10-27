@@ -1,0 +1,15 @@
+flash_history_db.c:41:17:read_slot_content_with_cache	32	static
+flash_history_db.c:633:17:_slot_data_append	24	static
+flash_history_db.c:264:10:history_data_del_all	56	static
+flash_history_db.c:126:10:fhdb_init	632	static
+flash_history_db.c:332:10:slot_iterator_init	24	static
+flash_history_db.c:361:10:group_iterate	56	static
+flash_history_db.c:412:10:one_group_iterate	72	static
+flash_history_db.c:484:10:one_group_iterate_reverse	72	static
+flash_history_db.c:578:10:group_change_state	56	static
+flash_history_db.c:305:10:history_data_del_all_quick	104	static
+flash_history_db.c:601:10:slot_change_state	56	static
+flash_history_db.c:655:10:group_head_add	48	static
+flash_history_db.c:707:10:slot_data_append	48	static
+flash_history_db.c:738:10:daily_group_find	32	static
+flash_history_db.c:768:10:month_group_find	120	static

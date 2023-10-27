@@ -1,0 +1,4 @@
+wl_flash_fal_port.c:23:6:BSP_QSPI_Read	8	static
+wl_flash_fal_port.c:36:6:BSP_QSPI_Write	8	static
+wl_flash_fal_port.c:48:6:BSP_QSPI_Erase_Block	8	static
+wl_flash_fal_port.c:67:6:BSP_QSPI_Erase_Sector	8	static

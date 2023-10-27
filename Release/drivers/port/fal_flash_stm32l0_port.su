@@ -1,0 +1,6 @@
+fal_flash_stm32l0_port.c:178:12:init	0	static
+fal_flash_stm32l0_port.c:184:12:read	12	static
+fal_flash_stm32l0_port.c:70:17:FLASH_Unlock	0	static
+fal_flash_stm32l0_port.c:211:12:erase	32	static
+fal_flash_stm32l0_port.c:196:12:write	24	static
+fal_flash_stm32l0_port.c:130:6:FLASH_WriteWord	0	static

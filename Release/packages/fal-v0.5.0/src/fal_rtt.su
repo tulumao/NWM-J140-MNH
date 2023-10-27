@@ -1,0 +1,7 @@
+fal_rtt.c:112:18:blk_dev_write	32	static
+fal_rtt.c:91:18:blk_dev_read	16	static
+fal_rtt.c:359:18:char_dev_read	16	static
+fal_rtt.c:377:18:char_dev_write	16	static
+fal_rtt.c:43:17:blk_dev_control	8	static
+fal_rtt.c:165:19:fal_blk_device_create	16	static
+fal_rtt.c:503:19:fal_char_device_create	16	static

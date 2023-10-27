@@ -1,0 +1,7 @@
+app_eep.c:83:6:eep_WriteMoreBytes	24	static
+app_eep.c:129:6:eep_WriteOneByteCheck	32	static
+app_eep.c:156:9:eep_ReadOneByteCheck	16	static
+app_eep.c:185:6:eep_WriteMoreBytesCheck	160	static
+app_eep.c:213:6:eep_ReadMoreBytesCheck	160	static
+app_eep.c:237:6:save_global_env	16	static
+app_eep.c:243:6:read_global_env	16	static

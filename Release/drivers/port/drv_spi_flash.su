@@ -1,0 +1,4 @@
+drv_spi_flash.c:63:12:rt_hw_spi_flash_with_sfud_init	16	static
+drv_spi_flash.c:22:6:w25qxx_read_status_register2	24	static
+drv_spi_flash.c:32:6:w25qxx_write_enable	16	static
+drv_spi_flash.c:40:6:w25qxx_enter_qspi_mode	40	static

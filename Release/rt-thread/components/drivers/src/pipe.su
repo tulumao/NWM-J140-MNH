@@ -1,0 +1,7 @@
+pipe.c:414:11:rt_pipe_control	0	static
+pipe.c:323:11:rt_pipe_open	16	static
+pipe.c:340:11:rt_pipe_close	16	static
+pipe.c:358:11:rt_pipe_read	32	static
+pipe.c:386:11:rt_pipe_write	32	static
+pipe.c:431:12:rt_pipe_create	16	static
+pipe.c:476:5:rt_pipe_delete	16	static

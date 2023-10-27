@@ -1,0 +1,15 @@
+app_meter.c:51:13:read_meter_slot_content	24	static
+app_meter.c:71:17:read_meter_slot_content_with_cache	32	static
+app_meter.c:39:10:archives_lock	8	static
+app_meter.c:45:10:archives_unlock	8	static
+app_meter.c:318:10:meter_add	200	static
+app_meter.c:381:10:meter_cnt	0	static
+app_meter.c:386:10:meter_find	304	static
+app_meter.c:368:10:meter_add_repeat_check	24	static
+app_meter.c:415:10:meter_del	296	static
+app_meter.c:449:10:meter_del_all	32	static
+app_meter.c:182:10:meter_archives_init	56	static
+app_meter.c:490:10:meter_iterator_init	16	static
+app_meter.c:516:10:meter_iterate	48	static
+app_meter.c:558:10:meter_init	16	static
+app_meter.c:576:10:meter_modify	64	static

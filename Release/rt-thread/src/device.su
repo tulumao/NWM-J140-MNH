@@ -1,0 +1,14 @@
+device.c:80:10:rt_device_unregister	8	static
+device.c:100:10:rt_device_init_all	0	static
+device.c:112:13:rt_device_find	24	static
+device.c:49:10:rt_device_register	24	static
+device.c:158:13:rt_device_create	16	static
+device.c:184:6:rt_device_destroy	8	static
+device.c:205:10:rt_device_init	16	static
+device.c:240:10:rt_device_open	16	static
+device.c:305:10:rt_device_close	8	static
+device.c:346:11:rt_device_read	24	static
+device.c:385:11:rt_device_write	24	static
+device.c:421:10:rt_device_control	16	static
+device.c:446:1:rt_device_set_rx_indicate	16	static
+device.c:468:1:rt_device_set_tx_complete	16	static

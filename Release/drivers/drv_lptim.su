@@ -1,0 +1,8 @@
+drv_lptim.c:87:5:stm32l0_hw_lptim_init	96	static
+drv_lptim.c:15:6:LPTIM1_IRQHandler	8	static
+drv_lptim.c:20:6:HAL_LPTIM_CompareMatchCallback	8	static
+drv_lptim.c:34:13:stm32l0_lptim_get_current_tick	8	static
+drv_lptim.c:44:13:stm32l0_lptim_get_tick_max	0	static
+drv_lptim.c:56:10:stm32l0_lptim_start	8	static
+drv_lptim.c:66:6:stm32l0_lptim_stop	0	static
+drv_lptim.c:79:13:stm32l0_lptim_get_countfreq	0	static

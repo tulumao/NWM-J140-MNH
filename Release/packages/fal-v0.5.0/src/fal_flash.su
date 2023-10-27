@@ -1,0 +1,2 @@
+fal_flash.c:42:5:fal_flash_init	16	static
+fal_flash.c:79:29:fal_flash_device_find	16	static

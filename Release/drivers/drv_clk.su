@@ -1,0 +1,3 @@
+drv_clk.c:75:5:clock_information	0	static
+drv_clk.c:20:6:system_clock_config	112	static
+drv_clk.c:86:6:clk_init	8	static

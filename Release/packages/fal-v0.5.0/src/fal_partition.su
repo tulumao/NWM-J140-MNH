@@ -1,0 +1,9 @@
+fal_partition.c:81:6:fal_show_part_table	64	static
+fal_partition.c:126:5:fal_partition_init	32	static
+fal_partition.c:311:29:fal_partition_find	24	static
+fal_partition.c:335:29:fal_get_partition_table	0	static
+fal_partition.c:352:6:fal_set_partition_table_temp	0	static
+fal_partition.c:372:5:fal_partition_read	24	static
+fal_partition.c:413:5:fal_partition_write	24	static
+fal_partition.c:453:5:fal_partition_erase	24	static
+fal_partition.c:490:5:fal_partition_erase_all	8	static

@@ -1,0 +1,14 @@
+common.c:22:10:crc16	12	static
+common.c:52:9:add8Sum	0	static
+common.c:75:10:CRC16	8	static
+common.c:102:10:getCrc16	8	static
+common.c:128:6:getProgramCompileTim	16	static
+common.c:145:6:getSoftVersion	16	static
+common.c:164:6:checkDate	32	static
+common.c:197:6:ascToBcd	28	static
+common.c:247:6:bcdToAsc	12	static
+common.c:279:9:Hex1ByteToBcd	16	static
+common.c:299:9:Bcd1ByteToHex	0	static
+common.c:322:11:time_to_hex	56	static
+common.c:352:6:to_hex	12	static
+common.c:374:6:checkTM	16	static

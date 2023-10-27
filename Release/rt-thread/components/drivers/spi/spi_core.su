@@ -1,0 +1,11 @@
+spi_core.c:21:10:rt_spi_bus_register	24	static
+spi_core.c:43:10:rt_spi_bus_attach_device	16	static
+spi_core.c:72:10:rt_spi_configure	16	static
+spi_core.c:102:10:rt_spi_send_then_send	56	static
+spi_core.c:177:10:rt_spi_send_then_recv	56	static
+spi_core.c:252:11:rt_spi_transfer	48	static
+spi_core.c:313:24:rt_spi_transfer_message	16	static
+spi_core.c:376:10:rt_spi_take_bus	8	static
+spi_core.c:418:10:rt_spi_release_bus	8	static
+spi_core.c:430:10:rt_spi_take	40	static
+spi_core.c:446:10:rt_spi_release	40	static

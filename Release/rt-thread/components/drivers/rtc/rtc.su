@@ -1,0 +1,2 @@
+rtc.c:42:10:set_date	56	static
+rtc.c:92:10:set_time	56	static

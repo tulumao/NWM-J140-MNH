@@ -1,0 +1,3 @@
+cpuport.c:59:13:rt_hw_stack_init	16	static
+cpuport.c:98:6:rt_hw_hard_fault_exception	8	static
+cpuport.c:132:14:rt_hw_cpu_reset	0	static

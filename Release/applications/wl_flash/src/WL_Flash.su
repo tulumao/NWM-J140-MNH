@@ -1,0 +1,6 @@
+WL_Flash.c:106:13:WL_Flash_recoverPos	32	static
+WL_Flash.c:75:13:WL_Flash_initSections	24	static
+WL_Flash.c:210:6:WL_Flash_Erase_Range	64	static
+WL_Flash.c:237:6:WL_Flash_Config	56	static
+WL_Flash.c:403:6:WL_Flash_Write	40	static
+WL_Flash.c:427:6:WL_Flash_Read	40	static

@@ -1,0 +1,2 @@
+test_simple.c:24:6:history_recover_sample	280	static
+test_simple.c:85:6:hisotry_read_speed_sample	1064	static

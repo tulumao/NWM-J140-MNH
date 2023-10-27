@@ -1,0 +1,10 @@
+pin.c:49:18:_pin_control	16	static
+pin.c:33:18:_pin_write	16	static
+pin.c:18:18:_pin_read	16	static
+pin.c:77:5:rt_device_pin_register	8	static
+pin.c:103:10:rt_pin_attach_irq	40	static
+pin.c:113:10:rt_pin_detach_irq	16	static
+pin.c:123:10:rt_pin_irq_enable	16	static
+pin.c:134:6:rt_pin_mode	16	static
+pin.c:141:6:rt_pin_write	16	static
+pin.c:148:6:rt_pin_read	16	static

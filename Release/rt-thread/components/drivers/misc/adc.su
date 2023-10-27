@@ -1,0 +1,6 @@
+adc.c:22:18:_adc_read	24	static
+adc.c:42:17:_adc_control	8	static
+adc.c:75:10:rt_hw_adc_register	24	static
+adc.c:102:13:rt_adc_read	24	static
+adc.c:113:10:rt_adc_enable	16	static
+adc.c:130:10:rt_adc_disable	16	static

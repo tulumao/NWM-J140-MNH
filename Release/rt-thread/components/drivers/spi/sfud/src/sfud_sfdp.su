@@ -1,0 +1,2 @@
+sfud_sfdp.c:80:6:sfud_read_sfdp	104	static
+sfud_sfdp.c:363:8:sfud_sfdp_get_suitable_eraser	24	static

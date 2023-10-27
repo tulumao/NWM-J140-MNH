@@ -1,0 +1,14 @@
+object.c:127:6:rt_object_attach_sethook	0	static
+object.c:138:6:rt_object_detach_sethook	0	static
+object.c:156:6:rt_object_trytake_sethook	0	static
+object.c:175:6:rt_object_take_sethook	0	static
+object.c:186:6:rt_object_put_sethook	0	static
+object.c:202:6:rt_system_object_init	0	static
+object.c:219:1:rt_object_get_information	8	static
+object.c:238:6:rt_object_init	40	static
+object.c:307:6:rt_object_detach	8	static
+object.c:338:13:rt_object_allocate	32	static
+object.c:404:6:rt_object_delete	8	static
+object.c:440:11:rt_object_is_systemobject	8	static
+object.c:459:12:rt_object_get_type	8	static
+object.c:479:13:rt_object_find	24	static

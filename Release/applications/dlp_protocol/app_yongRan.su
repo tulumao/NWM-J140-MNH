@@ -1,0 +1,4 @@
+app_yongRan.c:34:5:yongRan_protocolDeal	24	static
+app_yongRan.c:67:6:yongRan_protocolHandle	8	static
+app_yongRan.c:100:6:yongRan_HostSendDataToSlave	80	static
+app_yongRan.c:130:6:yongRan_SendReadDataCmd	8	static

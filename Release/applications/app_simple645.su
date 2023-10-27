@@ -1,0 +1,6 @@
+app_simple645.c:95:5:simple645_protocolDeal.part.0	8	static
+app_simple645.c:69:5:simple645_readMeasurementDataFunc	16	static
+app_simple645.c:95:5:simple645_protocolDeal	8	static
+app_simple645.c:118:6:simple645_protocolHandle	16	static
+app_simple645.c:156:6:simple645_HostSendDataToSlave	88	static
+app_simple645.c:197:6:simple645_SendReadDataCmd	24	static

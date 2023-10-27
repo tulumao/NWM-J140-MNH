@@ -1,0 +1,9 @@
+scheduler.c:72:1:rt_scheduler_sethook	0	static
+scheduler.c:191:6:rt_system_scheduler_init	0	static
+scheduler.c:708:6:rt_schedule_insert_thread	8	static
+scheduler.c:805:6:rt_schedule_remove_thread	8	static
+scheduler.c:246:6:rt_system_scheduler_start	16	static
+scheduler.c:418:6:rt_schedule	32	static
+scheduler.c:878:6:rt_enter_critical	8	static
+scheduler.c:940:6:rt_exit_critical	8	static
+scheduler.c:974:13:rt_critical_level	0	static

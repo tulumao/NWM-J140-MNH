@@ -1,0 +1,5 @@
+waitqueue.c:36:5:__wqueue_default_wake	0	static
+waitqueue.c:18:6:rt_wqueue_add	16	static
+waitqueue.c:27:6:rt_wqueue_remove	8	static
+waitqueue.c:41:6:rt_wqueue_wakeup	24	static
+waitqueue.c:77:5:rt_wqueue_wait	56	static

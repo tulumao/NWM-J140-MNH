@@ -1,0 +1,6 @@
+drv_common.c:24:6:rt_hw_systick_init	8	static
+drv_common.c:39:6:SysTick_Handler	8	static
+drv_common.c:59:19:HAL_InitTick	0	static
+drv_common.c:70:6:_Error_Handler	0	static
+drv_common.c:85:6:rt_hw_us_delay	24	static
+drv_common.c:100:6:hw_board_init	16	static
